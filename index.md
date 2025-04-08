@@ -20,7 +20,7 @@
 
 ### Meet my pets! 
 #### Introducing Patch
-![Patches](https://imgur.com/a/pfSzjRj)
+![Patches](/Users/jaylynneredeaux/CSE110/Patches.jpeg)
 Patch is a freshly 2 year old tortie who falls in love with everyone she meets! She loves food (sometimes a little bit too much). She is the daughter of my older cat Zora, meet her here (takes to zoras page). As long as she is with her person she is the happiest girl, she will sit with you or nap anytime.   
 
 Nicknames consist of: Babygirl, Fatches, Patches, Fatty, Chunky Monkey, Patcheese 
