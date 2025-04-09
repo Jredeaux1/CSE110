@@ -1,4 +1,4 @@
-# :star: Hello! My Name is JayLynne Redeaux :star:
+# ✨ Hello! My Name is JayLynne Redeaux ✨
 
 ```python
 def what_makes_a_good_programmer():
