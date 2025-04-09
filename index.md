@@ -1,36 +1,104 @@
 # :star: Hello! My Name is JayLynne Redeaux :star:
 
-> “A good programmer is someone who always looks both ways before crossing a one-way street.” Doug Linder
-
-
+```python
+def what_makes_a_good_programmer():
+    quote = "A good programmer is someone who always looks both ways before crossing a one-way street."
+    print(f"Hmm... What does it mean to be a good programmer?\n\nDoug Linder once said:\n\n\"{quote}\"\n")
+    print("\nBut, why look both ways? What other qualities make a good programmer?")
+    
+what_makes_a_good_programmer()
+``` 
 ## About Me:
 
-1. I am a 3rd year student at **UCSD** majoring in Computer Science and Cognitive Science
-2. I am born in raised in San Diego and plan to stay local for future careers.
-3. When I am not at school, I work as a pet sitter but my favorite pets have to be my two girls [Zora] and Patch 
-4. I recently binge watched the Apple original series ["Silo"](https://en.wikipedia.org/wiki/Silo_(TV_series)) and now have to wait a year for the next season :disappointed:
-5. The coding languages that I know are 
-   - C
-   - Python
-   - Java
-   - C++
-6. I'm currently taking CSE 110 _Software Engineering_ and CSE 140/L _Component & Design of Technology/Digital Systems_ 
-   
-   
+1. I am a 3rd-year student at **UCSD**, majoring in **Computer Science** and **Cognitive Science**.
+2. I was born and raised in **San Diego** and plan to stay local for my future career.
+3. When I am not at school, I work as a **pet sitter**, but my favorite pets have to be my two girls, [Zora](#introducing-zora) and [Patch](#introducing-patch).
+4. I recently binge-watched the Apple original series ["Silo"](https://en.wikipedia.org/wiki/Silo_(TV_series)) and now I have to wait a year for the next season 😞.
+5. The coding languages that I know are:
+   - **C**
+   - **Python**
+   - **Java**
+   - **C++**
+6. I'm currently taking **CSE 110** (_Software Engineering_) and **CSE 140/L** (_Component & Design of Technology/Digital Systems_).
 
-### Meet my pets! 
+---
+
+### Meet My Pets!
+
 #### Introducing Patch
-![Patches](/Users/jaylynneredeaux/CSE110/Patches.jpeg)
-Patch is a freshly 2 year old tortie who falls in love with everyone she meets! She loves food (sometimes a little bit too much). She is the daughter of my older cat Zora, meet her here (takes to zoras page). As long as she is with her person she is the happiest girl, she will sit with you or nap anytime.   
+![Patches](Patches.jpeg)
+**Patch** is a freshly 2-year-old tortie who falls in love with everyone she meets! She loves food (sometimes a little too much). She is the daughter of my older cat, [Zora](#introducing-zora). As long as she is with her person, she is the happiest girl. She will sit with you or nap anytime.
 
-Nicknames consist of: Babygirl, Fatches, Patches, Fatty, Chunky Monkey, Patcheese 
+#### Nicknames:
+- Babygirl
+- Fatches
+- Patches
+- Fatty
+- Chunky Monkey
+- Patcheese
 
-Favorite Activites: Eating, Cuddling, Sunbathing, Napping, Midnight Zoomies, Annoying Zora, Annoying me, Making biscuits 
+#### Favorite Activities:
+- Eating
+- Cuddling
+- Sunbathing
+- Napping
+- Midnight Zoomies
+- Annoying Zora
+- Annoying me
+- Making biscuits
 
-#### Introduxing Zora
+---
 
-Zora is roughly 4 years old and the absolute light of my life (don't tell patch), she is my first ever cat that I have owned in my adult life. Adopting her truly unleashed my inner cat lady and I have not been the same since. She loves getting attention and accepts hugs! Fun fact about Zora is that she does not want to be a mom and ignores her daughter Patch! Zora does not like closed doors, she will meow and scratch until you let her in, she does not want to be left out for any reason. 
+#### Introducing Zora
+![Zora](Zora.jpeg) 
 
-Nicknames: Momma, Zora Bora, Stinky, Zora Kitty, Deadbeat
+**Zora** is roughly 4 years old and the absolute light of my life (don’t tell Patch). She is my first-ever cat that I have owned in my adult life. Adopting her truly unleashed my inner cat lady, and I have not been the same since. She loves getting attention and accepts hugs!
 
-Favorite Activites: Napping, Ignoring Patch, Headbutting, Meowing for food/attention, Going places she should not be, Door dashing 
+Fun fact about Zora: she does not want to be a mom and completely ignores her daughter, Patch! Zora does not like closed doors; she will meow and scratch until you let her in. She does not want to be left out for any reason!
+
+#### Nicknames:
+- Momma
+- Zora Bora
+- Stinky
+- Zora Kitty
+- Deadbeat
+
+#### Favorite Activities:
+- Napping
+- Ignoring Patch
+- Headbutting
+- Meowing for food/attention
+- Going places she should not be
+- Door dashing
+
+---
+
+## Resources:
+Check out some of my favorite websites and resources:
+- [UCSD Cognitive Science Program](https://cogsci.ucsd.edu/)
+- [Awesome Software Engineering Resources](https://github.com/Alliedium/awesome-software-engineering)
+- [Silo (TV Series)](https://en.wikipedia.org/wiki/Silo_(TV_series))
+
+---
+
+## Section Links:
+You can navigate to the sections directly below:
+- [About Me](#about-me)
+- [Meet My Pets](#meet-my-pets)
+  - [Introducing Patch](#introducing-patch)
+  - [Introducing Zora](#introducing-zora)
+
+---
+
+## Fun Facts About Me:
+- I’m a huge fan of **science fiction** shows like **Silo**.
+- I love playing with my cats, **Zora** and **Patch**, and I believe they secretly rule the house.
+- I’m a self-proclaimed **cat whisperer** and can tell when my cats are plotting something mischievous.
+
+---
+
+## To-Do List (Task List):
+- [x] Finish homework for **CSE 110**.
+- [ ] Update GitHub with recent projects.
+- [x] Watch more episodes of **Silo**.
+
